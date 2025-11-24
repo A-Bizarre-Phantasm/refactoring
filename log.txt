@@ -1,19 +1,11 @@
-c6c1fc5 (HEAD -> main, origin/main, origin/HEAD) Task 1.1
+0f4cac5 (HEAD -> main, origin/main, origin/HEAD) Task 2.2
+dd7f6b3 Updated git log
+feb7041 Task 2.1
+e5559fa Task 1.2
+c6c1fc5 Task 1.1
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
 c8d9d38 adding starter files
 cbe4517 first commit
-
-commit e5559fa3280c5f215e2d0367e32a23cbac6d8700
-Author: cheng <chengjeanell@gmail.com>
-Date:   Mon Nov 24 01:42:51 2025 -0500
-
-    Task 1.2
-
-commit feb70415fb017486407fd32a9f7b589e179246f1 (HEAD -> main, origin/main, origin/HEAD)
-Author: cheng <chengjeanell@gmail.com>
-Date:   Mon Nov 24 02:25:37 2025 -0500
-
-    Task 2.1
