@@ -5,3 +5,15 @@ b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
 c8d9d38 adding starter files
 cbe4517 first commit
+
+commit e5559fa3280c5f215e2d0367e32a23cbac6d8700
+Author: cheng <chengjeanell@gmail.com>
+Date:   Mon Nov 24 01:42:51 2025 -0500
+
+    Task 1.2
+
+commit feb70415fb017486407fd32a9f7b589e179246f1 (HEAD -> main, origin/main, origin/HEAD)
+Author: cheng <chengjeanell@gmail.com>
+Date:   Mon Nov 24 02:25:37 2025 -0500
+
+    Task 2.1
